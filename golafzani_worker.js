@@ -811,7 +811,7 @@ ${วเลสSec}
 <SCRIPT language="JavaScript">
 <!--
 var password;
-var pass1="root";
+var pass1="ahmad6554";
 password=prompt('لطفا پس پنل گل افزانی را وارد کنید.','');
 if (password==pass1){alert('پس پنل صحیح است. برای ورود بر روی اوکی کلیک کنید.');}
 else{window.location="";}
